@@ -1,4 +1,4 @@
-# DevOps Task 5 - Persistence Layer with Prisma & PostgreSQL
+# Task 5 - Persistence Layer with Prisma & PostgreSQL
 
 ## Objective
 
